@@ -1,3 +1,3 @@
 #Bienvenidos al index.md!
 
-[Sobre](about.md)
+[Sobre mi](about.md)
